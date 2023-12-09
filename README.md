@@ -24,13 +24,11 @@
 
 ## 👀 Current overview:
 
-🔭 **Exploring** Next.js 🚀
-
-🌱 **Working with** React ⚛️
-
-💻 **Implementing** MongoDB, Mongoose, Express, Node.js Stack
-**in Full Stack Development**
-
-🎢 **Building** Full-Stack Sites 🚀
-
-📚 **Continuous** Learning
+- 🔭 I’m currently **working** on enhancing user experiences through front-end development projects.
+- 🌱 I’m currently **learning** TypeScript and exploring advanced concepts in Next.js.
+- 👯 I’m **looking** to collaborate on innovative web projects that push the boundaries of creativity and technology.
+- 🤔 I’m **looking** for help with mastering advanced TypeScript usage and diving deeper into full-stack development.
+- 💬 **Ask me** about front-end development, React.js, or any intriguing tech topic you have in mind.
+- 📫 **How to reach me**: Drop me an email at <a href="mailto:imrulkaisar3@gmail.com">imrulkaisar3@gmail.com</a> or connect on <a href="https://www.linkedin.com/in/imrulkaisar/" target="_blank">LinkedIn</a>.
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun fact**: I enjoy experimenting with new coding languages and frameworks just for the fun of it!
